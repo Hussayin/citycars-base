@@ -4,11 +4,11 @@ const path = require("path");
 // Kataloglar ro'yxati
 const directories = [
   "./Frederique",
-  "deepal",
-  "jetour",
-  "lipmotors",
-  "nevo",
-  "zeeker",
+  "./deepal",
+  "./jetour",
+  "./lipmotors",
+  "./nevo",
+  "./zeeker",
 ]; // Kataloglarni qo'shing
 
 // Natijani yozish uchun HTML fayl
