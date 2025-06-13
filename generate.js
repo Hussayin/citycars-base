@@ -10,6 +10,7 @@ const directories = [
   "./nevo",
   "./zeeker",
   "./low-price",
+  "./seiko-watch",
 ]; // Kataloglarni qo'shing
 
 // Natijani yozish uchun HTML fayl
