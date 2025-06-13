@@ -9,6 +9,7 @@ const directories = [
   "./lipmotors",
   "./nevo",
   "./zeeker",
+  "./low-price",
 ]; // Kataloglarni qo'shing
 
 // Natijani yozish uchun HTML fayl
