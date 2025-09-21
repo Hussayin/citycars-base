@@ -13,6 +13,7 @@ const directories = [
   "./seiko-watch",
   "./orient-watches",
   "./old-frederique",
+  "./orient-watches1",
 ]; // Kataloglarni qo'shing
 
 // Natijani yozish uchun HTML fayl
