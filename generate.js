@@ -14,6 +14,7 @@ const directories = [
   "./orient-watches",
   "./old-frederique",
   "./orient-watches1",
+  "./24.09.25",
 ]; // Kataloglarni qo'shing
 
 // Natijani yozish uchun HTML fayl
